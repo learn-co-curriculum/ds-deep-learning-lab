@@ -1,1 +1,1 @@
-# ds-deep-learning-lab
+# dl-zalando-lab
